@@ -11,5 +11,6 @@
     "default_popup": "popup.html",
     "default_icon": "img/tim.js-logo.png",
     "default_title": "tim.js meetup 48"
-  }
+  },
+  "content_security_policy": "script-src 'self' https://code.jquery.com https://cdnjs.cloudflare.com https://stackpath.bootstrapcdn.com; object-src 'self'"
 }
