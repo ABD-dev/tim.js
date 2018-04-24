@@ -4,7 +4,12 @@
   "version": "0.0.1",
   "description": "Chrome Extensions @ tim.js",
   "author": "Bogdan Dinga <bogdan.dinga@gmail.com>",
+  "icons": {
+    "128": "img/tim.js-logo.png"
+  },
   "browser_action": {
-    "default_popup": "popup.html"
+    "default_popup": "popup.html",
+    "default_icon": "img/tim.js-logo.png",
+    "default_title": "tim.js meetup 48"
   }
 }
