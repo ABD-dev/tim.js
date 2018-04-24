@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "tim.js",
+  "version": "0.0.1",
+  "description": "Chrome Extensions @ tim.js",
+  "author": "Bogdan Dinga <bogdan.dinga@gmail.com>",
+  "browser_action": {
+    "default_popup": "popup.html"
+  }
+}
