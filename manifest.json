@@ -27,5 +27,8 @@
       "css": ["content.css"],
       "js": ["content.js"]
     }
+  ],
+  "permissions": [
+    "storage"
   ]
 }
