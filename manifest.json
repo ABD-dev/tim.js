@@ -20,5 +20,12 @@
   },
   "background": {
     "scripts": ["background.js"]
-  }
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "css": ["content.css"],
+      "js": ["content.js"]
+    }
+  ]
 }
