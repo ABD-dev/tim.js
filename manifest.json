@@ -17,5 +17,8 @@
     "page": "options.html",
     "chrome_style": true,
     "open_in_tab": false
+  },
+  "background": {
+    "scripts": ["background.js"]
   }
 }
